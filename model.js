@@ -128,7 +128,7 @@ const defaults = () => ({
 	nhej_freq: 0,
 	rc: 0,
 	K: 1,
-	gametic: 0,
+	gametic: 1,
 	eps: 0.01,
 	target_steps: 100,
 	repeats: 1,
